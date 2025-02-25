@@ -10,4 +10,4 @@ instructions](https://github.com/martinthomson/i-d-template/blob/main/doc/TEMPLA
 for more information.
 
 Once you have created your own repository, start work by
-[renaming the `draft-todo-yourname-protocol.md` file](../../edit/main/draft-todo-yourname-protocol.md).
+[renaming the `draft-cwbgp-green-inventory-energy-management.md` file](../../edit/main/draft-cwbgp-green-inventory-energy-management.md).
