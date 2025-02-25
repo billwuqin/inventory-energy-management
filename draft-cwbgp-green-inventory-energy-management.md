@@ -9,8 +9,8 @@ number:
 date:
 consensus: true
 v: 3
-area: "Operations and Management"
-workgroup: "GREEN"
+area: ""
+workgroup: "Getting Ready for Energy-Efficient Networking"
 keyword:
  - energy efficiency
  - energy management
