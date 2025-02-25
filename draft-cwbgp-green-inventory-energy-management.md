@@ -1,5 +1,4 @@
 ---
-###
 title: "A YANG Network Inventory Data Model for Energy Efficiency Management"
 abbrev: "Inventory Energy Management"
 category: std
