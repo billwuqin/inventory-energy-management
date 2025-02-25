@@ -1,34 +1,28 @@
 ---
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
-category: info
+title: "A YANG Network Inventory Data Model for Energy Efficiency Management"
+abbrev: "Inventory Energy Management"
+category: std
 
-docname: draft-todo-yourname-protocol-latest
-submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
+docname: draft-cwbgp-green-inventory-energy-management-latest
+submissiontype: IETF
 number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: "Operations and Management"
+workgroup: "GREEN"
 keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
-venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+ - energy efficiency
+ - energy management
+ - Network Inventory
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+   fullname: Qin Wu
+   organization:  Huawei
+   country: China
+   email: bill.wu@huawei.com
 
 normative:
 
