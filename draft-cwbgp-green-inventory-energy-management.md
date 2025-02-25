@@ -16,30 +16,30 @@ keyword:
  - energy management
  - Network Inventory
 
- author:
-  -
+author:
+ -
     fullname: Gen Chen
     organization:  Huawei
     country: China
     email: chengen@huawei.com
-  -
+ -
     fullname: Qin Wu
     role: editor
     organization: Huawei
     country: China
     email: bill.wu@huawei.com
-  -
+ -
     fullname: Mohamed Boucadair
     role: editor
     organization: Orange
     country: France
     email:  mohamed.boucadair@orange.com
-  -
+ -
     fullname: Oscar Gonzales de Dios
     organization: Telefonica I+D
     country: Spain
     email:  oscar.gonzalezdedios@telefonica.com
-  -
+ -
     fullname: Carlos Pignataro
     organization: North Carolina State University
     country: United States of America
